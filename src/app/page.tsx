@@ -1,9 +1,9 @@
-
-import React from 'react'
+export const revalidate = 7200
 
 const Home = () => {
   return (
-    <div className='mt-10 text-red-500'>VanPahm Dev</div>
+    <main>
+    </main>
   )
 }
 
